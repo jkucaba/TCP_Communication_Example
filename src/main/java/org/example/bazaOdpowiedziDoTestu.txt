@@ -1,0 +1,3 @@
+Pytanie 1 : 4
+Pytanie 2 : 6
+Pytanie 3 : 8
